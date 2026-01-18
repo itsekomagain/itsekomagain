@@ -23,7 +23,13 @@ I’m a Digital Product Designer and Web Platforms Specialist with a passion for
 ## 📚 Featured Project
 
 <a href="https://github.com/itsekomagain/social-previewer" target="_blank">
-     <img src="https://img.shields.io/badge/Social+Previewer+-+Social+Preview+Generator-white?style=for-the-badge&logo=todoist&logoColor=black" /> 
+     <img src="https://img.shields.io/badge/Social+Previewer+--white?style=for-the-badge&logo=todoist&logoColor=black" /> 
+</a>
+
+A tool for generating social media preview cards that help creators visualize how links will appear on platforms, built with modern web frameworks.
+
+<a href="https://github.com/itsekomagain/kolor-toolkit" target="_blank">
+     <img src="https://img.shields.io/badge/Kolor+Toolkit+--white?style=for-the-badge&logo=todoist&logoColor=black" /> 
 </a>
 
 A tool for generating social media preview cards that help creators visualize how links will appear on platforms, built with modern web frameworks.
