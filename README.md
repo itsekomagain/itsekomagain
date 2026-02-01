@@ -27,13 +27,14 @@ I’m a Digital Product Designer and Web Platforms Specialist with a passion for
 </a>
 
 A tool for generating social media preview cards that help creators visualize how links will appear on platforms, built with modern web frameworks.
+<a href="https://www.framer.com/marketplace/plugins/social-previewer/" target="_blank"> Click to check out the plugin on Framer's Marketplace </a>
 
 <a href="https://github.com/itsekomagain/kolors" target="_blank">
      <img src="https://img.shields.io/badge/Kolors+--white?style=for-the-badge&logo=todoist&logoColor=black" /> 
 </a>
 
 Kolors is a powerful color utility plugin built specifically for Framer. It helps designers create better color systems, improve accessibility, and speed up design workflows — all without leaving Framer.
-
+<a href="https://www.framer.com/marketplace/plugins/kolors/" target="_blank"> Click to check out the plugin on Framer's Marketplace </a>
 
 
 <hr/>
