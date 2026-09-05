@@ -1,49 +1,46 @@
 # Ekomobong Otu
-[![Linkedin Badge](https://img.shields.io/badge/-Ekomobong%20Otu-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/ekomobong-otu/)](https://www.linkedin.com/in/ekomobong-otu/) 
-[![GitHub followers](https://img.shields.io/github/followers/itsekomagain?label=Follow&style=social)](https://github.com/itsekomagain?tab=follow) 
-[![Gmail Badge](https://img.shields.io/badge/-heykommy-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:heykommy@gmail.com)](mailto:heykommy@gmail.com)
+
+[![LinkedIn Badge](https://img.shields.io/badge/-Ekomobong%20Otu-blue?style=social\&logo=Linkedin\&logoColor=blue\&link=https://www.linkedin.com/in/ekomobong-otu/)](https://www.linkedin.com/in/ekomobong-otu/)
+[![GitHub followers](https://img.shields.io/github/followers/itsekomagain?label=Follow\&style=social)](https://github.com/itsekomagain?tab=follow)
+[![Gmail Badge](https://img.shields.io/badge/-heykommy-c14438?style=social\&logo=Gmail\&logoColor=red\&link=mailto\:heykommy@gmail.com)](mailto:heykommy@gmail.com)
 
 ---
 
-## Hi there, I'm Ekomobong 👋
+## Hi, I'm Ekomobong 👋
 
-I’m a Digital Product Designer and Web Platforms Specialist with a passion for building design centered digital experiences and creator focused tools.  I combine design thinking, web development, and analytics to create user friendly platforms and intuitive digital solutions.
+I'm an **SEO Specialist, Product Designer, and Web Platform Builder** focused on technical SEO, e-commerce growth, web automation, and AI powered tools.
+
+I combine **SEO, product design, web technologies, and automation** to build digital products that solve practical problems for businesses, designers, creators, and developers.
+
+My current focus is on building tools that make **SEO and web optimization faster, smarter, and easier to manage.**
 
 <h1 align="left">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Open+to+roles+such+as;+Product+Designer;+UX/UI+Designer;+Web+Platform+Designer;+Creative+Technologist;+Tech+Creator"/>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=650&height=70&duration=4000&lines=SEO+%26+Web+Growth;+Technical+SEO;+E-commerce+SEO;+SEO+Automation;+AI+Tools;+Web+Platforms"/>
 </h1>
 
 <br/>
 
-- 🌱 I’m currently exploring **AI assisted design tools, advanced UX systems, and web design automation**
-- 👯 I’m open to collaborating on projects in **Product Design, UX/UI, Web Platforms, and Visual Tech Tools**
-- 💡 I love building tools that help creators design better
-<hr/>
-
-## 📚 Featured Project
-
-<a href="https://github.com/itsekomagain/social-previewer" target="_blank">
-     <img src="https://img.shields.io/badge/Social+Previewer+--white?style=for-the-badge&logo=todoist&logoColor=black" /> 
-</a>
-
-A tool for generating social media preview cards that help creators visualize how links will appear on platforms, built with modern web frameworks.
-<a href="https://www.framer.com/marketplace/plugins/social-previewer/" target="_blank"> Click to check out the plugin on Framer's Marketplace </a>
-
-<a href="https://github.com/itsekomagain/kolors" target="_blank">
-     <img src="https://img.shields.io/badge/Kolors+--white?style=for-the-badge&logo=todoist&logoColor=black" /> 
-</a>
-
-Kolors is a powerful color utility plugin built specifically for Framer. It helps designers create better color systems, improve accessibility, and speed up design workflows — all without leaving Framer.
-<a href="https://www.framer.com/marketplace/plugins/kolors/" target="_blank"> Click to check out the plugin on Framer's Marketplace </a>
-
+* 🔎 Working across **Technical SEO, E-commerce SEO, On-Page SEO, and Organic Growth**
+* 🤖 Building **SEO automation and AI powered tools**
+* 🛠️ Creating plugins, extensions, and web products for **Framer, Shopify, WordPress, and the web**
+* 🎨 Bringing a **Product Design and UX background** into SEO and web development
+* 🚀 Interested in building products that turn repetitive workflows into simple tools
 
 <hr/>
 
-## 💻 Other Projects
+## 🧰 What I Work With
 
-<a href="https://github.com/itsekomagain?tab=repositories" target="_blank">
-     <img src="https://img.shields.io/badge/All+Repositories-white?style=for-the-badge&logo=github&logoColor=black" /> 
-</a>
+**SEO & Growth**
+
+`Technical SEO` `E-commerce SEO` `On-Page SEO` `Keyword Research` `Google Search Console` `GA4` `Semrush` `Ahrefs`
+
+**Design & Web**
+
+`Figma` `Framer` `WordPress` `Shopify` `HTML` `CSS` `PHP`
+
+**Product & Automation**
+
+`AI` `SEO Automation` `Web APIs` `Browser Extensions` `Plugins` `Digital Products`
 
 <hr/>
 
@@ -66,17 +63,16 @@ Kolors is a powerful color utility plugin built specifically for Framer. It help
 
 <hr/>
 
-<h2 align="left">⚡ GitHub Stats ⚡</h2>
-<br>
-<div align=left>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsekomagain&layout=compact&theme=react&border_radius=10" alt="top langs" />
+## 📊 GitHub Stats
+
+<div align="left">
+  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsekomagain&layout=compact&theme=react&border_radius=10" alt="Top languages" />
 </div>
 
-<br/>
 <br/>
 
 <hr/>
 
 <h3 align="left">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+stopping+by!;+Let’s+build+something+cool!;">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=650&height=70&duration=4000&lines=Build+tools.+Solve+problems.+Grow+the+web.;Let's+build+something+useful!">
 </h3>
