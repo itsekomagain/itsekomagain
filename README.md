@@ -65,8 +65,6 @@ My current focus is on building tools that make **SEO and web optimization faste
 
 <br/>
 
-<hr/>
-
 <h3 align="left">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=650&height=70&duration=4000&lines=Build+tools.+Solve+problems.+Grow+the+web.;Let's+build+something+useful!">
 </h3>
