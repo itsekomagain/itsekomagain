@@ -63,12 +63,6 @@ My current focus is on building tools that make **SEO and web optimization faste
 
 <hr/>
 
-## 📊 GitHub Stats
-
-<div align="left">
-  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsekomagain&layout=compact&theme=react&border_radius=10" alt="Top languages" />
-</div>
-
 <br/>
 
 <hr/>
