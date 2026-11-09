@@ -27,7 +27,7 @@ By day I'm the SEO Specialist & E-commerce Manager at a Shopify electronics stor
 | **Ekom SEO for WooCommerce** | Paid add-on for the toolkit, built for WooCommerce stores. More add-ons on the way (internal links, bulk meta, 404 monitor, AI visibility). |
 | **E-Creator** | A WordPress theme for creators and bloggers. It runs ekom.blog and is being prepared for sale. |
 | **[ekom.blog](https://ekom.blog)** | My personal tech blog: SEO, Shopify, WordPress, building with AI, and hands-on reviews of new (and old) tech. |
-| **Framer plugins & TabHue** | A collection of Framer plugins (incl. Framer SEO Pro and Cookie Consent) and TabHue, a Chrome extension I built with AI. |
+| **Framer plugins & TabHue** | A collection of Framer plugins (incl. Framer SEO Pro and Cookie Consent) and TabHue, a Chrome extension. |
 
 I also build my own automation for the blog: WordPress plugins that handle social posting, translation and newsletter sign-ups.
 
